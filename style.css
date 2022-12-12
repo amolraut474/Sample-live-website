@@ -726,7 +726,7 @@ input ,textarea:focus {
 }
 .last-section {
     padding: 50px 0px;
-    background-image: url(../Images/preview-1-overlay_clipdrop-cleanup.jpg);
+    background-image: url('../Images/preview-1-overlay_clipdrop-cleanup.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
