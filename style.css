@@ -281,7 +281,7 @@ h3.text-black {
 /*--------------------------------------------- section-4-css------------------------------------------ */
 
 .section-4 {
-   background-image: url(../Images/25654-[Converted]-3-1\ \(1\).png), linear-gradient(rgb(154 12 157), rgb(86 27 4));
+   background-image: url('../Images/25654-[Converted]-3-1\ \(1\).png'), linear-gradient(rgb(154 12 157), rgb(86 27 4));
     background-blend-mode: overlay;
     padding: 70px 0px;
 
@@ -698,7 +698,7 @@ input ,textarea:focus {
   }
 
   .bg-image-silder-blog::before{
-    content: url(../Images/Background.png) ;
+    content: url('../Images/Background.png') ;
     position: absolute;
     
     right: 32px;
@@ -710,7 +710,7 @@ input ,textarea:focus {
 /*=========================================================last-section====================================================== */
 .last-section{
     padding: 50px 0px;
-    background-image: url(../Images/preview-1.jpg),linear-gradient(rgb(213, 8, 8), rgb(234, 21, 21));
+    background-image: url('../Images/preview-1.jpg'),linear-gradient(rgb(213, 8, 8), rgb(234, 21, 21));
 }
 .content-last {
     display: flex;
