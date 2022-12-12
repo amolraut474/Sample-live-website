@@ -107,7 +107,7 @@ a.nav-link:hover {
 /*------------------------ section-3-------------------------- */
 .section-3 {
     padding: 70px 0px;
-    background-image: url('../Images/podcast-bg-img-4.png'), linear-gradient(rgb(70 65 10), rgb(106 37 135));
+    background-image: url('/Images/podcast-bg-img-4.png'), linear-gradient(rgb(70 65 10), rgb(106 37 135));
     background-blend-mode: overlay;
     background-size: cover;
     background-repeat: no-repeat;
@@ -281,7 +281,7 @@ h3.text-black {
 /*--------------------------------------------- section-4-css------------------------------------------ */
 
 .section-4 {
-   background-image: url(../Images/25654-[Converted]-3-1\ \(1\).png), linear-gradient(rgb(154 12 157), rgb(86 27 4));
+   background-image: url(/Images/25654-[Converted]-3-1\ \(1\).png), linear-gradient(rgb(154 12 157), rgb(86 27 4));
     background-blend-mode: overlay;
     padding: 70px 0px;
 
