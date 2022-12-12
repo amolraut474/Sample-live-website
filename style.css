@@ -281,7 +281,7 @@ h3.text-black {
 /*--------------------------------------------- section-4-css------------------------------------------ */
 
 .section-4 {
- background-image:linear-gradient(rgb(154 12 157), rgb(86 27 4)),url('./Images/25654-[Converted]-3-1\\(1\).png');
+ background-image: url('./Images/section-tab-img.png'), linear-gradient(rgb(154 12 157), rgb(86 27 4));
   background-blend-mode: overlay;
   padding: 70px 0px;
 
