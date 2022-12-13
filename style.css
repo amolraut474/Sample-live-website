@@ -815,7 +815,11 @@ input#exampleFormControlInput1 {
     background: #59c378;
     color: #fff;
   }
+ .recent-work-icon:hover{
+    background: #59c378;
+    color: #fff;
 
+  }
 
 
 /* ==========================================================Receponshive mobile view============================================= */
