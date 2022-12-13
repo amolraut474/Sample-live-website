@@ -825,7 +825,7 @@ input#exampleFormControlInput1 {
 /* ==========================================================Receponshive mobile view============================================= */
 
 
-@media screen and (max-width: 425px)and (min-width: 375px){
+@media screen and (max-width: 425px)and (min-width: 320px){
     .main-form{
         margin-bottom: 28px;
     }
