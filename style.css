@@ -691,14 +691,14 @@ position: relative;
 }
 
 .bg-image-silder-blog::after{
-  content: url(../Images/Background.png);
+  content: url('./Images/Background.png');
   position: absolute;
   left: 25px;
   top: 0px;
 }
 
 .bg-image-silder-blog::before{
-  content: url('../Images/Background.png') ;
+  content: url('./Images/Background.png') ;
   position: absolute;
   
   right: 32px;
@@ -815,8 +815,7 @@ input#exampleFormControlInput1 {
     background: #59c378;
     color: #fff;
   }
-
- .recent-work-icon:hover{
+  .recent-work-icon:hover{
     background: #59c378;
     color: #fff;
 
