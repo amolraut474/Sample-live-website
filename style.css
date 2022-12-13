@@ -811,54 +811,77 @@ input#exampleFormControlInput1 {
   color: #ffffff !important;
  
 }
+ .icon-map:hover{
+    background: #59c378;
+    color: #fff;
+  }
 
 
 
 /* ==========================================================Receponshive mobile view============================================= */
 
 
-@media screen and (max-width: 425px){
-  .main-form{
-      margin-bottom: 28px;
-  }
-  .tab-content-group {
-      flex-direction: column;
-  }
-  .work{
-      flex-direction: column;
-      
+@media screen and (max-width: 425px)and (min-width: 375px){
+    .main-form{
+        margin-bottom: 28px;
+    }
+    .tab-content-group {
+        flex-direction: column;
+    }
+    .work{
+        flex-direction: column;
+        
 }
 .work-position {
 text-align: center;
 }
 .content-part{
-  flex-direction: column ;
+    flex-direction: column ;
 }
 .section-3-2part-content{
-  flex-direction: column ;
+    flex-direction: column ;
 }
 .custom-card{
-  width: 100%;
+    width: 100%;
 }
 .last-footer-heading {
-  padding: 0 !important                    ;
+    padding: 0 !important                    ;
 }
 .footer-list{
 padding: 0;
 }
 .footer-news-letter{
-  padding: 0px 10px !important;
+    padding: 0px 10px !important;
 }
 .content-last h3 {
-  font-size: 29px;
-  line-height: 33px;
+    font-size: 23px;
+    line-height: 33px;
 }
 .tablink{
 width: 100%;
-font-size: 17px !important;
+font-size: 15px !important;
+padding: 10px 15px;
 }
 
 .custom-tab {
 gap: 13px;
 }
+.work {
+    padding: 0;
+}
+p.para.tab-para {
+    text-align: left;
+}
+.work {
+    padding: 0;
+}
+.btn-custom-submit {
+    width: 100% !important;
+    font-size: 16px;
+}
+.section-4-heading {
+    font-size: 35px;
+
+}
+
 }
