@@ -836,6 +836,9 @@ input#exampleFormControlInput1 {
         flex-direction: column;
         
 }
+  .r-btn {
+    text-align: center;
+}
 .work-position {
 text-align: center;
 }
